@@ -1,0 +1,13 @@
+Onderwerp: Reactie op bericht - "{{ REACTION }}"
+
+
+Hallo {{ USERNAME }},
+
+U ontvangt deze melding omdat {{ REACTION_USER }} Reageerde op je bericht "{{ POST_SUBJECT }}" bij "{{ SITENAME }}". 
+U kunt de onderstaande link gebruiken om de reactie te bekijken.
+
+{{ U_VIEW_POST }}
+
+U hebt aangegeven dat u op de hoogte wilt worden gehouden van deze gebeurtenis. U kunt er echter altijd voor kiezen om geen meldingen meer te ontvangen van nieuwe reacties. Dit kunt u doen door de betreffende instelling in uw profiel te wijzigen.
+
+{{ EMAIL_SIG }}
