@@ -26,7 +26,7 @@ $lang = array_merge($lang, [
 	//notifications
 	'NOTIFICATION_GROUP_REACTIONS'		=> 'Reacties',
 	
-	'NOTIFICATION_TYPE_POST_REACTION' 	=> 'Iemand reageert op jouw bericht',		
+	'NOTIFICATION_TYPE_POST_REACTION' 	=> 'Iemand reageert op jouw bericht',
 	'POST_REACTION_NOTIFICATION'		=> '<strong>Nieuwe reactie</strong> <img src="%1$s" class="reaction-notification" alt="%2$s" /> van: %3$s In bericht:<br> “%4$s”',
 	
 	
@@ -88,7 +88,7 @@ $lang = array_merge($lang, [
 	'USER_REACTIONS'				=> 'Reacties %d',
 	'VIEW_REACTIONS'				=> 'Bekijk reacties',	
 	'VIEWING_REACTIONS'				=> 'Reactiespagina bekijken',
-	'WELCOME_REACTIONS_PAGE'		=> 'Welkom %1$s, <br>  &nbsp  &nbsp  &nbsp  &nbsp  Totaal van <strong>%2$s</strong> geregistreerde gebruikers hebben reacties ontvangen, u kunt klikken op de <strong>“Reactie Afbeelding”</strong> om de ontvangen reactielijst te bekijken.',
+	'WELCOME_REACTIONS_PAGE'		=> 'Welkom %1$s, <br>  &nbsp  &nbsp  &nbsp  &nbsp  Totaal van <strong>%2$s</strong> geregistreerde gebruikers hebben reacties ontvangen, u kunt op de <strong>“Reactie Afbeelding”</strong> klikken om de ontvangen reactielijst te bekijken.',
 
 	//pre populated reactions
 	'REACTION_CRY'					=> 'Huilen',
