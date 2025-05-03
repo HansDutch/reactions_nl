@@ -1,4 +1,4 @@
-Onderwerp: Reactie op bericht - "{{ REACTION }}"
+Subject: Reactie op bericht - "{{ REACTION }}"
 
 
 Hallo {{ USERNAME }},
