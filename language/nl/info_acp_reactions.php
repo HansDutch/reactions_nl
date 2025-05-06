@@ -25,6 +25,7 @@ $lang = array_merge($lang, [
 //Top
 	'ACP_STEVE_HELP'					=> 'Hulp krijgen',
 	'ACP_STEVE_EXTENSIONS'				=> 'Uitbreidingen',
+	'ACP_STEVE_DONATE'					=> 'Doneren',
 	
 	'ACP_REACTIONS_SETTINGS'			=> 'Instellingen',
 	'ACP_REACTIONS_SETTINGS_EXPLAIN'	=> 'Hier kunt u de algemene instellingen voor de Reacties-extensie aanpassen.',
