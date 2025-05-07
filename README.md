@@ -2,7 +2,7 @@
 
 ## Installation
 
-Copy the Dutch transation language/nl folder to phpBB/ext/phpBB/ext/steve/reactions/language
+Copy the Dutch transation language/nl folder to phpBB/ext/steve/reactions/language
 
 ## reactions extension source files
 
