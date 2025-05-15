@@ -41,6 +41,7 @@ $lang = array_merge($lang, [
 	'ACP_REACTIONS_ENABLE_BADGE'		=> 'Badge rond typetelling inschakelen',
 	'ACP_REACTIONS_ENABLE_PERCENTAGE'	=> 'Statistieken inschakelen op weergave Reacties pagina',
 	'ACP_REACTIONS_POST_AUTHOR_REACT'	=> 'Geef auteurs van berichten de mogelijkheid om op hun berichten te reageren',
+	'ACP_REACTIONS_TOPIC_LOCKED'		=> 'Reacties in vergrendelde onderwerpen inschakelen',
 	'ACP_REACTIONS_RESYNC_ENABLE'		=> 'Schakel berichten reacties opnieuw synchroniseren in',
 	'ACP_REACTIONS_ENABLE_TOGGLE_FADE' 	=> 'Ingeschakeld wisseleffect',
 	'ACP_REACTIONS_BUTTON'				=> 'Positie van de reactieknop',
