@@ -32,7 +32,7 @@ $lang = array_merge($lang, [
 // User Permissions	
 $lang = array_merge($lang, [
 	'ACL_U_ADD_REACTIONS'				=> 'Kan reacties toevoegen',
-	'ACL_U_CHANGE_REACTIONS'			=> 'Kan reacties veranderen',	
+	'ACL_U_CHANGE_REACTIONS'			=> 'Kan reacties veranderen',
 	'ACL_U_DELETE_REACTIONS'			=> 'Kan reacties verwijderen',
 	'ACL_U_DISABLE_REACTIONS'			=> 'Kan de Reacties-extensie uitschakelen',
 	'ACL_U_DISABLE_REACTION_TYPES'		=> 'Kan reactietypen voor hun berichten uitschakelen',

@@ -3,7 +3,7 @@ Subject: Reactie op bericht - "{{ REACTION }}"
 
 Hallo {{ USERNAME }},
 
-U ontvangt deze melding omdat {{ REACTION_USER }} Reageerde op je bericht "{{ POST_SUBJECT }}" bij "{{ SITENAME }}". 
+U ontvangt deze melding omdat {{ REACTION_USER }} Reageerde op je bericht "{{ POST_SUBJECT }}" bij "{{ SITENAME }}".
 U kunt de onderstaande link gebruiken om de reactie te bekijken.
 
 {{ U_VIEW_POST }}
