@@ -6,7 +6,7 @@ Copy the Dutch transation language/nl folder to phpBB/ext/steve/reactions/langua
 
 ## reactions extension source files
 
-[Download link](https://github.com/Steven-C-18/reactions/tree/main)
+[Download link](https://github.com/HansDutch/reactions/tree/main)
 
 ## License
 
